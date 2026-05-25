@@ -99,7 +99,6 @@ The raw dataset was cleaned and transformed using **Python** and **SQL** before 
 - Python Data Cleaning Script
 - SQL Queries
 - Dashboard Screenshots
-- Project Documentation
 
 ---
 
