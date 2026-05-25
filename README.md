@@ -118,5 +118,5 @@ This project was created to strengthen practical skills in:
 **Shoaib Chiplunkar**
 
 ### Connect With Me
-- LinkedIn
-- GitHub
+- LinkedIn (https://www.linkedin.com/in/muhammad-shoaib-chiplunkar/)
+- GitHub (https://github.com/Shoaib-72/)
